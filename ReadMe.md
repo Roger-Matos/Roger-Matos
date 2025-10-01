@@ -8,7 +8,7 @@
 
 ### 👩‍💻 Sobre mim
 
-### 👩‍💻 Sobre mim
+
 
 <ul>
   <li> QA estratégico com atuação sólida em múltiplas frentes de qualidade 🚀</li>
