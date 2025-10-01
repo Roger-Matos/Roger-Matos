@@ -8,18 +8,19 @@
 
 ### 👩‍💻 Sobre mim
 
+### 👩‍💻 Sobre mim
+
 <ul>
-🎯 QA estratégico com atuação sólida em múltiplas frentes de qualidade
-🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em cobertura e rastreabilidade
-📚 Especialista em documentação e gestão de testes com X-Ray integrado ao Jira
-🐞 Implementador de reuniões de Bug Review com foco em análise de falhas, logs e observabilidade
-🔍 Experiência com a pirâmide de testes e visão de testes ponta a ponta (test-end, to-end)
-🧪 Conhecimento sólido em testes manuais, exploratórios e bug bashes
-📈 Forte atuação em observabilidade com análise de logs e prevenção de falhas
-📎 Experiência com ferramentas como Jira, Azure DevOps, SESuite
-🧰 Ferramentas técnicas: Puppeteer, SQL Server, PostgreSQL, Oracle, Postman, Swagger, JMeter
-📚 Formado em Analise e Desenvolvimento de Sistema
-📚 Pós Graduado em Devops
+  <li> QA estratégico com atuação sólida em múltiplas frentes de qualidade 🚀</li>
+  <li>Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em cobertura e rastreabilidade 📝</li>
+  <li>Especialista em documentação e gestão de testes com X-Ray integrado ao Jira 📊</li>
+  <li>Implementador de reuniões de Bug Review com foco em análise de falhas, logs e observabilidade 🔍</li>
+  <li>Experiência com a pirâmide de testes e visão de testes ponta a ponta (test-end-to-end) 🧪</li>
+  <li>Conhecimento sólido em testes manuais, exploratórios e bug bashes 🐛</li>
+  <li>Forte atuação em observabilidade com análise de logs e prevenção de falhas ☁️</li>
+  <li>Experiência com ferramentas como Jira, Azure DevOps, SESuite (Ferramentas técnicas: Puppeteer, SQL Server, PostgreSQL, Oracle, Postman, Swagger, JMeter) 🛠️</li>
+  <li>Formado em Análise e Desenvolvimento de Sistema 🎓</li>
+  <li>Pós-graduado em DevOps 🧑‍💻</li>
 </ul>
 
 ---
@@ -60,11 +61,10 @@
 
 
 
-### 📫 Me acompanhe pelo meu Linkedin
+### 📫 Me acompanhe pelo meu LinkedIn
 
 <p align="left">
-  <a href="www.linkedin.com/in/roger-matos" target="_blank">
+  <a href="https://www.linkedin.com/in/roger-matos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
- 
 </p>
