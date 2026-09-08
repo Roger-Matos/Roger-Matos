@@ -62,7 +62,7 @@ Projeto de automação E2E com Cypress e JavaScript, organizado por fluxos de ne
 ## Idiomas
 
 - Português: nativo;
-- Inglês: intermediário (B1), com boa compreensão oral e leitura.
+- Inglês: intermediário (B2)
 
 ## Contato
 
