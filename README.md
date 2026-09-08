@@ -1,6 +1,6 @@
 # Roger Matos
 
-**Analista de QA Pleno | QA Automation Engineer**
+**Analista de QA  | QA Automation Engineer**
 
 Quality Assurance com mais de 3 anos de experiência em produtos Web e Mobile, atuando desde o refinamento de requisitos até a validação das entregas. Trabalho com testes funcionais, exploratórios, regressivos e de API, além de automação com Playwright, Cypress, WebdriverIO, Appium e TypeScript.
 
